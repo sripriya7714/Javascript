@@ -1,0 +1,11 @@
+<html>
+<head><h1>AccountCreationForm</h1></head>
+<body bgcolor="green">
+<form>
+Firstname:<input type="text">
+Middlename:<input type="text">
+LastName:<input type="text">
+DateOfBirth:
+</form>
+</body>
+</html>
